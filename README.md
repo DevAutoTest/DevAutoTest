@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Elena, I'm QA Engineer.
+
+## 📊 My progress on Codewars:
+[![Codewars](https://www.codewars.com/users/Elena_Danilova/badges/small)](https://www.codewars.com/users/Elena_Danilova)
+
 <!--
 **DevAutoTest/DevAutoTest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
