@@ -2,6 +2,9 @@
 
 My name is Elena, I'm QA Engineer.
 
+## 📊 My progress on LeetCode:
+[![Codewars](https://leetcode.com/u/DevAutoTest/badges/small)](https://leetcode.com/u/DevAutoTest)
+
 ## 📊 My progress on Codewars:
 [![Codewars](https://www.codewars.com/users/Elena_Danilova/badges/small)](https://www.codewars.com/users/Elena_Danilova)
 
