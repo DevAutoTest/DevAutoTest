@@ -3,7 +3,7 @@
 My name is Elena, I'm QA Engineer.
 
 ## 📊 My progress on LeetCode:
-[![Leetсode](https://www.leetcode.com/u/DevAutoTest/badges/small)](https://www.leetcode.com/u/DevAutoTest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/DevAutoTest?ext=heatmap)
 
 ## 📊 My progress on Codewars:
 [![Codewars](https://www.codewars.com/users/Elena_Danilova/badges/small)](https://www.codewars.com/users/Elena_Danilova)
